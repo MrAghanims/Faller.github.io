@@ -10,9 +10,5 @@ div {
   h3 {text-align: center;}
   header{font-size:1vw;}
   p{text-align: center;color: rgb(19, 10, 156);} 
-  /* body {
-    background-image: url(bg.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-  } */
+  footer{font-size:1vw;text-align: center;}
+  
