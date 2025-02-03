@@ -1,0 +1,18 @@
+div {
+    width: 350px ;
+    padding: 20px;
+    margin: auto;}
+  img {width: 100%;}
+  header {text-align: center;}
+  h1 {text-align: center;font-size: 75px;}
+  button {font-size: 16px;}
+  h2 {text-align: center;font-size: 50px;}
+  h3 {text-align: center;}
+  header{font-size:1vw;}
+  p{text-align: center;color: rgb(19, 10, 156);} 
+  /* body {
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  } */
